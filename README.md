@@ -1,2 +1,3 @@
-# CS4096-AI-For-Games
-University Project (Module CS4096) authored by Italo Terto
+# Artificial Intelligence for Games
+
+This repository contains all the scripts that I wrote for my university project (module CS4096).
